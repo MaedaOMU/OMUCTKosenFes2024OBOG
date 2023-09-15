@@ -24,3 +24,4 @@ div {
   padding: 0vw 0vh;
   margin: 0vw 0vh;
 }
+.resizeimage img { width: 100%; }
